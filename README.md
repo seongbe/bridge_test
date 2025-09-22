@@ -1,1 +1,1 @@
-![Uploading 화면 기록 2025-09-22 오전 11.11.42.gif…]()
+![Demo GIF](react_addtest/public/실행화면.gif)
